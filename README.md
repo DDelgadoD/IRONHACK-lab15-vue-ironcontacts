@@ -2,6 +2,11 @@
 
 # LAB | Vue.js IronContacts
 
+## Mi Solución
+
+[Link](https://ddelgadod.github.io/IRONHACK-lab15-vue-ironcontacts/)
+
+
 ## Introduction
 
 After Ironhack, you have decided to work in the movie industry, and you've found a job where you need to manage the contacts of a famous producer.
