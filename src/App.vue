@@ -10,7 +10,7 @@
       <button @click="sortPopularity()" class="btn btn-warning mx-3 my-5">Sort by Popularity</button>
     </div>
     <div class="table-responsive d-flex justify-content-center" >
-      <table class="table table-striped align-middle text-center w-50">
+      <table class="table table-striped align-middle text-center">
         <thead>
           <tr>
             <th>Picture</th>
